@@ -1,0 +1,81 @@
+//main: main.less
+
+.navbar {
+  border: none;
+  margin-bottom: 0;
+  padding: 10px 0;
+  background: white;
+  border-bottom: 1px solid lightgrey;
+}
+.navbar-nav>li>a {
+  color: black;
+  transition: .5s;
+}
+.navbar-nav>li>a:hover{
+  background: none;
+  color: red;
+}
+.navbar-nav>li>a:before, .navbar-nav>li>a:after {
+  content: '';
+  position: absolute;
+  transition: transform .5s ease;
+}
+.effect:before {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background: red;
+  transform: scaleX(0);
+}
+.effect:hover:before {
+  transform: scaleX(1);
+}
+.navbar-right {
+  margin-right: 0;
+}
+.navbar-nav {
+  margin: 7.5px 15px !important;
+}
+.navbar-toggle .icon-bar
+{
+  background: black;
+}
+
+//Media
+
+@media screen and (max-width: 768px) {
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
+  }
+  .nav>li {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+//Header
+
+header {
+  margin-bottom: 50px;
+  margin-top: 86px;
+}
+.carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+  height: 80vh;
+  width: 100%;
+}
+.carousel-control.right, .carousel-control.left {
+  background-image: none;
+}
+
+//Media
+
+@media screen and (max-width: 768px) {
+  .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    height: auto;
+    width: 100%;
+  }
+}

@@ -37,7 +37,7 @@
     <div class="row" data-aos="fade-up" data-aos-duration="3000" >
       <h1 class="text-center">Informacje</h1>
       <p class="content">
-        Firma N-TRANS została założona przez dwóch przyjaciół dnia 06.10.16r Celem naszej firmy było zapewnienie pracownikom dobrej zabawy i miłej atmosfery jak również staraliśmy się wprowadzać nowoczesną technologię by jak najbardziej urealnić rozgrywkę. Cel naszej firmy jest aktualny do dnia dzisiejszego. Nasze starania doprowadziły do tego  że jesteśmy jedną z najbardziej rozpoznawalnych firm na rynku. 
+        Firma N-TRANS została założona przez dwóch przyjaciół dnia 06.10.16r Celem naszej firmy było zapewnienie pracownikom dobrej zabawy i miłej atmosfery jak również staraliśmy się wprowadzać nowoczesną technologię by jak najbardziej urealnić rozgrywkę. Cel naszej firmy jest aktualny do dnia dzisiejszego. Nasze starania doprowadziły do tego  że jesteśmy jedną z najbardziej rozpoznawalnych firm na rynku.
       </p>
     </div>
     <div class="row" data-aos="fade-up" data-aos-duration="3000">
@@ -46,7 +46,7 @@
           <img class="responsive" alt="" src="img/img-1.jpg" />
         </div>
         <p>
-          Na samym początku o naszej firmie nikt nie słyszał. Było tylko kilku kierowców a nasz system rozliczeń budził wiele do życzenia. Co tydzień w piątki z entuzjazmem jeździliśmy konwoje naszymi czerwonymi MAN-ami i reklamowaliśmy firmę. To spowodowało że do naszej firmy dołączało coraz więcej osób a czerwone MAN-y były naszym znakiem rozpoznawczym 
+          Na samym początku o naszej firmie nikt nie słyszał. Było tylko kilku kierowców a nasz system rozliczeń budził wiele do życzenia. Co tydzień w piątki z entuzjazmem jeździliśmy konwoje naszymi czerwonymi MAN-ami i reklamowaliśmy firmę. To spowodowało że do naszej firmy dołączało coraz więcej osób a czerwone MAN-y były naszym znakiem rozpoznawczym
         </p>
       </div>
       <div class="col-sm-6">
@@ -54,27 +54,11 @@
           <img class="responsive" alt="" src="img/img-3.jpg" />
         </div>
         <p>
-          Aktualnie nasza firma liczy ponad 25 kierowców i ciągle się powiększa. By iść z duchem czasu zmieniliśmy nasze stare czerwone MAN-y na nowe białe Scanie. Ciągle kontynuujemy naszą tradycję piątkowych konwojów, które odbywają się również z innymi firmami. Przez ten cały czas rozwijaliśmy nasz panel rozliczeń jak również rozwinęliśmy reklamę naszej firmy poprzez media społecznościowe i stronę internetową. Przez cały ten czas przyświeca nam myśl by naszym pracownikom było jak najlepiej w firmie.   
+          Aktualnie nasza firma liczy ponad 25 kierowców i ciągle się powiększa. By iść z duchem czasu zmieniliśmy nasze stare czerwone MAN-y na nowe białe Scanie. Ciągle kontynuujemy naszą tradycję piątkowych konwojów, które odbywają się również z innymi firmami. Przez ten cały czas rozwijaliśmy nasz panel rozliczeń jak również rozwinęliśmy reklamę naszej firmy poprzez media społecznościowe i stronę internetową. Przez cały ten czas przyświeca nam myśl by naszym pracownikom było jak najlepiej w firmie.
         </p>
 
       </div>
     </div>
   </section>
 	
-	<!--
-  <section id="news" class="container">
-    <div class="row" data-aos="fade-up" data-aos-duration="3000">
-      <h2 class="text-center">Ostatnie filmy</h2>
-      <div class="col-sm-4">
-        <iframe src="https://www.youtube.com/embed/yNFnEYw2-ik" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <div class="col-sm-4">
-        <iframe src="https://www.youtube.com/embed/OjNdUKgaOoc" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <div class="col-sm-4">
-        <iframe src="https://www.youtube.com/embed/3nEbDgWipBs" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-  </section> -->
-
   <?php include("footer.php"); ?>

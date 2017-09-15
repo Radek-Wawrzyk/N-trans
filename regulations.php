@@ -2,7 +2,7 @@
   <?php include("header.php"); ?>
 
   <header class="page">
-    <img src="img/img-7.jpg" alt="" />
+    <img src="https://i.ytimg.com/vi/rHpZfH719wE/maxresdefault.jpg" alt="" />
   </header>
 
   <section class="container-wrap" id="regulations" >
@@ -34,11 +34,6 @@
             <h2 class="text-center">Regulamin wstawiania tras</h2>
           </div>
         </div>
-		<div class="col-md-3 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
-          <div class="rule-tile" data-toggle="modal" data-target="#regulation-note">
-            <h2 class="text-center">Rozpiski</h2>
-          </div>
-        </div>
         <div class="col-md-3 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
           <div class="rule-tile" data-toggle="modal" data-target="#managment">
             <h2 class="text-center">Zarząd</h2>
@@ -49,17 +44,17 @@
             <h2 class="text-center">Ciężarówki</h2>
           </div>
         </div>
-        <div class="col-md-offset-2 col-md-3 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
+        <div class="col-md-3 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
           <div class="rule-tile" data-toggle="modal" data-target="#inner-rules">
             <h2 class="text-center">Zasady wewnętrzne firmy</h2>
           </div>
         </div>
-        <div class="col-md-3 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
+        <div class="col-md-offset-3 col-md-3 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
           <div class="rule-tile" data-toggle="modal" data-target="#apelation">
             <h2 class="text-center">Apelacja</h2>
           </div>
         </div>
-        <div class="col-md-3 col-md-offest-2 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
+        <div class="col-md-3 col-md-offest-3 col-sm-6" data-aos="fade-up" data-aos-duration="3000">
           <div class="rule-tile" data-toggle="modal" data-target="#warnings">
             <h2 class="text-center">System ostrzeżeń</h2>
           </div>
@@ -313,38 +308,6 @@
       </div>
     </div>
   </div>
-  
-  <!-- Regulation notes -->
-  <div id="regulation-note" class="modal fade" role="dialog">
-    <div class="modal-dialog modal-lg">
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Zarząd</h4>
-        </div>
-        <div class="modal-body">
-		<ul class="number-list">
-		  <li>Rozpiski nie są obowiązkowe</li>
-		  <li>Aby dostać rozpiskę  należy zgłosić się do "[Główny Dyspozytor] Minio2001" lub do "[Dyspozytor] Adrian22-PL"</li>
-		  <li>Po zgłoszeniu należy podać dyspozytorowi:</li>
-		  <ol class="sub-list">
-			<li>Z jakiego miasta  i z jakiej firmy odbiera się ładunek</li>
-			<li>Do jakiego miasta i do jakiej firmy odwozisz ładunek</li>
-		  </ol>
-		  <li>W wyznaczonych przez dyspozytora miejscach rozładunku trzeba zrobić screenshota  na którym musi być widoczne miasto w którym się znajdujesz, Logo firmy w której odbywa się rozładunek. Zestaw musi stać przy rampie lub w miejscu przystosowanym do rozładunku jak również screenshota z F6 i tabeli końcowej</li>
-		  <li>Przy oddawaniu rozpiski należy w notatce napisać ROZPISKA i numer rozpiski jak również podać dokładną date rozpoczęcia i zakończenia rozpiski </li>
-		  <li>Maksymalne uszkodzenie naczepy podczas wykonywania rozpiski wynosi 15%</li>
-		  <li>Rozpiski wykonuje się do soboty 23:59 tego samego tygodnia w którym dostaliście rozpiskę.</li>
-		</ul>
-          
-	  </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <!-- Managments -->
   <div id="managment" class="modal fade" role="dialog">
@@ -358,10 +321,11 @@
         <div class="modal-body">
           <p>Zarząd podejmuje decyzje związane z działaniem Firmy, składem Zarządu oraz reprezentacją Firmy na zewnątrz. Decyzje Zarządu Firmy są niepodważalne i ostateczne.</p>
           <ul class="modal-list">
-            <p>W zarządzie zasiadają:</p>
-            <li>Epsilon - Właściciel</li>
-            <li>Meitt - Właściciel</li>
-            <li>Minio2001 - Główny Dyspozytor</li>
+            <p>W zarządzie zasiadają</p>
+            <li>Smakosz-Właściciel</li>
+            <li>Epsilon-Współwłaściciel</li>
+            <li>Meitt-Menadżer</li>
+            <li>Minio2001-Dyspozytor</li>
           </ul>
         </div>
         <div class="modal-footer">
